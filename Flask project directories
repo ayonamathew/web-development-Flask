@@ -1,0 +1,15 @@
+
+# Create a directory 
+mkdir Flaskmarket
+
+# Navigate to your Flask project directory
+cd Flaskmarket
+
+# Set the FLASK_APP variable to "market1.py"
+set/export FLASK_APP=market1.py
+
+# Set the FLASK_ENV variable to "development"
+export FLASK_ENV=development
+
+# Run your Flask application
+flask run
