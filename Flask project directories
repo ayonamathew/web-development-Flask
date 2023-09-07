@@ -6,7 +6,7 @@ mkdir Flaskmarket
 cd Flaskmarket
 
 # Set the FLASK_APP variable to "market1.py"
-set/export FLASK_APP=market1.py
+set/export FLASK_APP=app.py
 
 # Set the FLASK_ENV variable to "development"
 export FLASK_ENV=development
